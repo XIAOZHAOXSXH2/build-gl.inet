@@ -28,7 +28,6 @@ packages:
   - luci-app-aliyundrive-webdav
   - luci-app-aria2
   - luci-app-clash
-  - luci-app-frpc
   - luci-app-hd-idle
   - luci-app-jd-dailybonus
   - luci-app-zerotier
