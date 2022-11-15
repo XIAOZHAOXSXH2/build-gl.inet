@@ -18,6 +18,9 @@ packages:
   - wireguard
   - luci-app-eqos
   - wireguard-tools
+  - trojan
+  - naiveproxy
+  - hysteria
 
 
 
