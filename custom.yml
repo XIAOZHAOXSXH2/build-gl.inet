@@ -41,6 +41,7 @@ packages:
   - luci-app-jd-dailybonus
   - luci-app-zerotier
   - luci-app-openclash
+  - luci-app-passwall2
   
 
 
