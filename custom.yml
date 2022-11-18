@@ -31,7 +31,20 @@ packages:
   - luci-app-hd-idle
   - luci-app-jd-dailybonus
   - luci-app-zerotier
-  
+  - luci-app-passwall
+  - Brook
+  - ChinaDNS-NG
+  - Haproxy
+  - Kcptun
+  - PDNSD
+  - Simple-Obfs
+  - Trojan_GO
+  - Trojan_Plus
+  - luci-app-unblockmusic
+  - luci-app-uugamebooste
+  - luci-app-usb-printer
+  - luci-app-vlmcsd
+  - 
 
 
 
