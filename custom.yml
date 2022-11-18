@@ -7,15 +7,6 @@ feeds:
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-  - name: OpenClash
-    uri: https://github.com/vernesong/OpenClash.git
-    branch: master
-  - name: openwrt-passwall2
-    uri: https://github.com/xiaorouji/openwrt-passwall2.git
-    branch: main
-  - name: luci-app-smartdns
-    uri: https://github.com/pymumu/luci-app-smartdns.git
-    branch: master
 packages:
   - luci-app-ssr-plus
   - luci-app-ddns
@@ -40,8 +31,6 @@ packages:
   - luci-app-hd-idle
   - luci-app-jd-dailybonus
   - luci-app-zerotier
-  - luci-app-openclash
-  - luci-app-passwall2
   
 
 
