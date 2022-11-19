@@ -7,6 +7,9 @@ feeds:
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
+  - name: openwrt-packages
+    uri: https://github.com/kenzok8/openwrt-packages.git
+    branch: master
 packages:
   - luci-app-ssr-plus
   - luci-app-ddns
@@ -35,6 +38,9 @@ packages:
   - luci-app-uugamebooste
   - luci-app-usb-printer
   - luci-app-vlmcsd
+  - luci-theme-argonne
+  - luci-app-argonne-config
+  - luci-app-smartdns
 
 
 
