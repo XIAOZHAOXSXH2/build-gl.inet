@@ -24,17 +24,11 @@ packages:
   - trojan
   - naiveproxy
   - hysteria
-  - luci-app-accesscontrol
   - luci-app-aliyundrive-webdav
   - luci-app-aria2
-  - luci-app-clash
   - luci-app-hd-idle
-  - luci-app-jd-dailybonus
   - luci-app-zerotier
   - luci-app-unblockmusic
-  - luci-app-uugamebooste
-  - luci-app-usb-printer
-  - luci-app-vlmcsd
 
 
 
