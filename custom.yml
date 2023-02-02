@@ -1,27 +1,16 @@
 feeds:
-  - name: custom
-    path: ../feeds_dir/custom
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
 packages:
   - luci-app-ssr-plus
-  - luci-app-ddns
-  - ddns-scripts
-  - ddns-scripts-services
-  - ddns-scripts_aliyun
-  - luci-app-uhttpd
+  - luci-compat
+  - luci-lib-ipkg
+  - luci-app-ttyd
   - dnsmasq-full
-  - luci-app-commands
-  - luci-app-mwan3
-  - luci-app-wireguard
-  - wireguard
-  - luci-app-eqos
-  - wireguard-tools
   - trojan
   - naiveproxy
   - hysteria
-  - luci-app-accesscontrol
   - luci-app-aliyundrive-webdav
   - luci-app-aria2
   - luci-app-clash
