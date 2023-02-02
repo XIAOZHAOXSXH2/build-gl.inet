@@ -28,15 +28,8 @@ packages:
   - luci-app-aliyundrive-webdav
   - luci-app-aria2
   - luci-app-clash
-  - luci-app-hd-idle
-  - luci-app-jd-dailybonus
   - luci-app-zerotier
-  - luci-app-unblockmusic
-  - luci-app-uugamebooste
-  - luci-app-usb-printer
-  - luci-app-vlmcsd
   - luci-app-openclash
-  - luci-app-p910nd
 
 
 
