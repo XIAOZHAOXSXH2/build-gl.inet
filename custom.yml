@@ -1,12 +1,12 @@
 feeds:
   - name: custom
     path: ../feeds_dir/custom
-  - name: helloworld
-    uri: https://github.com/fw876/helloworld.git
-    branch: master
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
+  - name: luci-app-UUGameAcc
+    uri: https://github.com/BCYDTZ/luci-app-UUGameAcc.git
+    branch: master
 packages:
   - luci-app-ssr-plus
   - luci-app-ddns
@@ -24,19 +24,15 @@ packages:
   - trojan
   - naiveproxy
   - hysteria
-  - luci-app-accesscontrol
   - luci-app-aliyundrive-webdav
   - luci-app-aria2
   - luci-app-clash
-  - luci-app-hd-idle
-  - luci-app-jd-dailybonus
   - luci-app-zerotier
   - luci-app-unblockmusic
-  - luci-app-uugamebooste
   - luci-app-usb-printer
   - luci-app-vlmcsd
   - luci-app-openclash
-  - luci-app-p910nd
+  - luci-app-UUGameAcc
 
 
 
