@@ -12,8 +12,6 @@ packages:
   - luci-app-ttyd
   - alist
   - luci-app-alist
-  - luci-theme-argon-2102
-  - luci-app-argon-config
   - luci-app-udpxy
   - luci-app-ddns
   - ddns-scripts
